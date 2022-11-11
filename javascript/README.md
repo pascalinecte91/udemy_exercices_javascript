@@ -27,3 +27,17 @@ Récursivité
 Fichier JSON (lecture / écriture)
 
 Manipulation du DOM : Document Object Model (clic de bouton, événements, formulaire,...)
+
+
+## NOTE :  
+vue avec notejs dans terminal
+
+ouvrir le fichier .js
+clic droit ouvrir le terminal
+tapez node lenomdufichier.js
+
+resultat dans le terminal 
+
+et : pour les autres : 
+npm instal readline-sync
+avec la var au dessus du fichier ( pour les exercice à reponse obligatoire)
